@@ -1,0 +1,29 @@
+    select#languageDropdown {
+        background-color: #333;
+        color: white;
+        border: none;
+        font-size: 16px;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    .container {
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+        position: relative;
+    }
+
+    #progress-bar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 3px;
+        background: #4CAF50;
+    }
+
+  @media (max-width: 767px) {
+      h1 {
+          margin-top: 5px;
+      }
+  }
