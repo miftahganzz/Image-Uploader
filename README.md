@@ -16,7 +16,9 @@ This project is a simple Image Uploader that allows users to upload images, copy
 
 * Image Upload: Users can select an image file and upload it.
 * Copy Image URL: After uploading, users can copy the URL of the uploaded image.
-* Language Selection: Users can choose between English (EN) and Indonesian (ID) languages. 
+* Language Selection: Users can choose between English (EN) and Indonesian (ID) languages.
+* Upload Image With API Endpoint: /upload?url=img_url
+- Example: [API](https://cdn.miftahganzz.tech/upload?url=)
 
 ## Tech & Tools
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
